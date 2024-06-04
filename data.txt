@@ -1,0 +1,24 @@
+Name: maryam
+Phone: +923213555344
+Age: 24
+Email: m@gmail.com
+Flat Number: 4
+Security Deposit: 25000
+Rent
+
+Name: dua
+Phone: +923898967456
+Age: 30
+Email: dua@gmail.com
+Flat Number: 3
+Security Deposit: 90
+Rent
+
+Name: bushra
+Phone: +923787856456
+Age: 23
+Email: bush@gmail.com
+Flat Number: 2
+Security Deposit: 20000
+
+Rent
